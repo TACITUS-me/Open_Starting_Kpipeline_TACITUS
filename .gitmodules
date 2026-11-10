@@ -1,0 +1,3 @@
+[submodule "maintained-pipeline"]
+	path = maintained-pipeline
+	url = https://github.com/sargonxg/TACITUS-Knowledge-Pipeline-open.git
