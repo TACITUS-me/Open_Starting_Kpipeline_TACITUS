@@ -24,7 +24,7 @@ Python 3.11+, no runtime dependencies, model credentials or database needed for 
 
 ## Inspect the work
 
-- [Implementation and outputs](maintained-pipeline/reference-pipeline): graph JSON/JSON-LD, capsule, workflow plan, receipt and review sheet.
+- [Implementation and outputs](https://github.com/sargonxg/TACITUS-Knowledge-Pipeline-open/tree/main/reference-pipeline): graph JSON/JSON-LD, capsule, workflow plan, receipt and review sheet.
 - [Ontology guide](https://github.com/sargonxg/TACITUS-Knowledge-Pipeline-open/blob/main/reference-pipeline/docs/ontology.md): entity types and valid relationships.
 - [Semantic layers](https://github.com/sargonxg/TACITUS-Knowledge-Pipeline-open/blob/main/reference-pipeline/docs/semantic-layers.md): task selection, evidence requirements and review questions.
 - [Model and agent workflow](https://github.com/sargonxg/TACITUS-Knowledge-Pipeline-open/blob/main/reference-pipeline/docs/model-workflows.md): explicit providers and finite evidence inspection before a draft.
