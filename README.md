@@ -44,4 +44,6 @@ The maintained source currently lives under the founder's public account; it has
 
 [Practical guide, code and research](TACITUS_GUIDE.md) · [Original 8-bit teaching adventure](tacitus-demo/index.html) · [Credits](tacitus-demo/CREDITS.md)
 
-![Original TACITUS House of Evidence; a synthetic teaching scene](tacitus-demo/mansion.png)
+![Original TACITUS Source Workshop: saved sources, typed structure, bounded context and human review](https://raw.githubusercontent.com/sargonxg/sargonxg/a91027079c8ff8ebbd3623898a5e03a13cd80df5/assets/tacitus-source-workshop-8bit.png)
+
+*Original concept illustration; the scene and documents are fictional. [Artwork and reuse](https://github.com/sargonxg/sargonxg/blob/a91027079c8ff8ebbd3623898a5e03a13cd80df5/docs/VISUAL_IDENTITY.md).*
