@@ -39,3 +39,9 @@ The Syria example is a historical source exercise, not a current situation asses
 The original notebooks, queries and requirements remain in this repository, with their [earlier documentation](docs/legacy-notebook.md). They are historical experiments with separate provider and database requirements, not part of the credential-free reference's test result. Verify their service dependencies before running them.
 
 The maintained source currently lives under the founder's public account; it has not been transferred. Original code licenses and third-party source rights remain attached. PRAXIS hosted AI generation remains paused; the local reference is a separate working path.
+
+## Learn, inspect and verify
+
+[Practical guide, code and research](TACITUS_GUIDE.md) · [Original 8-bit teaching adventure](tacitus-demo/index.html) · [Credits](tacitus-demo/CREDITS.md)
+
+![Original TACITUS House of Evidence; a synthetic teaching scene](tacitus-demo/mansion.png)
