@@ -39,7 +39,7 @@ The Syria example is a historical source exercise, not a current situation asses
 
 The original notebooks, queries and requirements remain in this repository, with their [earlier documentation](docs/legacy-notebook.md). They are historical experiments with separate provider and database requirements, not part of the credential-free reference's test result. Verify their service dependencies before running them.
 
-The maintained source currently lives under the founder's public account; it has not been transferred. Original code licenses and third-party source rights remain attached. PRAXIS hosted AI generation remains paused; the local reference is a separate working path.
+The maintained source currently lives under the founder's public account; it has not been transferred. Original code licenses and third-party source rights remain attached. TACITUS App hosted generation remains paused; the local reference is a separate working path.
 
 ## Learn, inspect and verify
 
@@ -49,6 +49,8 @@ The maintained source currently lives under the founder's public account; it has
 
 *Original concept illustration; the scene and documents are fictional. [Artwork and reuse](https://github.com/sargonxg/sargonxg/blob/a91027079c8ff8ebbd3623898a5e03a13cd80df5/docs/VISUAL_IDENTITY.md).*
 
-## Format boundaries and current local checks
+## Format boundaries and verification
 
-[Evidence-format compatibility and reader boundaries](https://github.com/sargonxg/tacitus-workbench/blob/main/docs/FORMAT_COMPATIBILITY.md) distinguish the public reference, native readers, source-kit selections and the separately owned App contracts. No automatic cross-format converter or App authorization is implied. On 12 November 2026, the documented credential-free reference suite passed all 42 tests and the historical Syria graph/context/review-sheet build passed. The organization starter retains its existing reviewed submodule pin; no model/provider request or deployment was performed.
+The pinned compiler includes the generic team ontology, explicit App export, a reproducible source-edition proof and the controlled model-evaluation protocol. Its 48 tests pass locally without a model account. App import uses its own authenticated preview, native versions and human review flow. [Import contract](https://github.com/sargonxg/TACITUS-Knowledge-Pipeline-open/blob/main/reference-pipeline/docs/app-import.md)
+
+Earlier notebooks and other context formats retain their own contracts. Source rights and licenses remain attached. Hosted generation in the TACITUS App is paused.
