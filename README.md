@@ -1,6 +1,6 @@
-# TACITUS policy-data starting point
+# TACITUS knowledge-context starting point
 
-**Data infrastructure for Policy / Political AI.**
+Reusable context for teams working with knowledge.
 
 Start with the maintained, tested Python reference below. It builds an explicit source graph, applies a semantic layer, prepares a bounded context capsule and can produce a cited model draft. This organization repository pins the implementation as a Git submodule so the code has one maintained source.
 
@@ -13,14 +13,15 @@ git clone --recurse-submodules https://github.com/TACITUS-me/Open_Starting_Kpipe
 cd Open_Starting_Kpipeline_TACITUS/maintained-pipeline/reference-pipeline
 PYTHONPATH=src python -m unittest discover -s tests -v
 PYTHONPATH=src python -m tacitus_pipeline build \
-  --input examples/syria-negotiation/collection.json \
-  --ontology ontology/negotiation.json \
-  --layer layers/syria-negotiation.json \
-  --question "Prepare a historical negotiation-policy desk note." \
-  --output build/syria
+  --input examples/team-handoff/collection.json \
+  --ontology ontology/team-knowledge.json \
+  --layer layers/team-handoff.json \
+  --question "What context should travel with a team handoff?" \
+  --app-export --output build/team-handoff
 ```
 
-Python 3.11+, no runtime dependencies, model credentials or database needed for the offline build. In an existing clone, run `git submodule update --init --depth 1` first. The submodule uses a pinned commit; it does not follow upstream changes unless a maintainer explicitly updates the pin.
+Python 3.11+ with the standard library. The demonstration discussion is authored fixture data. In the authenticated App Library, choose Import context graph, preview the resulting `app-bundle.json` and save the capsule and artefact. Imported interpretations enter the review flow. Hosted generation is paused.
+
 
 ## Inspect the work
 
